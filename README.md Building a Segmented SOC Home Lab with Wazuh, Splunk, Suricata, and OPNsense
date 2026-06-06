@@ -1,6 +1,9 @@
 Building a Segmented SOC Home Lab with Wazuh, Splunk, Suricata, and OPNsense
 
 Project Objective
+Techologies Used
+
+Network Architecture
 
 The objective of this lab is to build a segmented cybersecurity environment capable of:
 
